@@ -14,7 +14,7 @@ input[type=text], select, textarea {
 
 input[type=submit] {
   background-color: rebeccapurple;
-  color: rgb(0, 217, 255);
+  color: cyan;
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
@@ -22,7 +22,7 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #00ffff;
+  background-color: cyan;
 }
 
 .container {
